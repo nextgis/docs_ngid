@@ -1,8 +1,8 @@
-.. sectionauthor:: Dmitry Baryshnikov <dmitry.baryshnikov@nextgis.com>
+.. sectionauthor:: Dmitry Baryshnikov <dmitry.baryshnikov@nextgis.ru>
 
 .. NextGIS ID TOC
 
-NextGIS ID documentation
+Документация по NextGIS ID
 ===============================
 
 Contents:

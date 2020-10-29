@@ -1,5 +1,5 @@
 .. NextGIS ID
-.. sectionauthor:: Dmitry Baryshnikov <dmitry.baryshnikov@nextgis.com>
+.. sectionauthor:: Dmitry Baryshnikov <dmitry.baryshnikov@nextgis.ru>
 
 .. include:: toc.rst
 
@@ -8,7 +8,7 @@
 
    glossary
    
-Index and glossary
+Индекс и таблицы
 ==================
 
 * :ref:`genindex`
