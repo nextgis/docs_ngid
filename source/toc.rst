@@ -5,10 +5,11 @@
 Документация по NextGIS ID
 ===============================
 
-Contents:
+Содержание:
     
 .. toctree::
    :maxdepth: 2
    
+   intro
    ngidop
 
