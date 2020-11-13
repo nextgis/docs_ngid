@@ -55,7 +55,9 @@ NGID on-premise предоставляет следующие возможнос
 Приложения OAuth
 -----------------------
 
-В разделе *Приложения OAuth* предоставляется доступ для авторизации в различных приложениях NextGIS - NextGIS Formuilder, NextGIS QGIS, NextGIS Web, NextGIS Collector, NextGIS Mobile (см. :numref:`ngidop_apps_oauth`). 
+В разделе *Приложения OAuth* предоставляется доступ для авторизации в различных приложениях NextGIS - NextGIS Formuilder, NextGIS QGIS, NextGIS Web, NextGIS Collector, NextGIS Mobile (см. :numref:`ngidop_apps_oauth`).
+
+Каждое из этих приложений можно быть настроено для авторизации через NextGIS ID on-premise. По умолчанию эти приложения авторизуются через my.nextgis.com - облачный сервис. Подробности о том, как настроить авторизацию в этих приложениях см. в их документации.
 
 .. figure:: _static/ngidop_apps_oauth.png
    :name: ngidop_apps_oauth
@@ -67,7 +69,7 @@ NGID on-premise предоставляет следующие возможнос
 .. _ngidop_ldap:
 
 Настройка LDAP
------------------------
+--------------
 
 Страница настроек LDAP открывается по подпути **/ldapsettings** (см. :numref:`ldap_settings`).
 В блоке LDAP SERVER указывается адрес сервера авторизации, логин/пароль учетной записи пользователя для подключения к серверу.
