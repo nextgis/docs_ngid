@@ -93,7 +93,7 @@ NGID on-premise предоставляет следующие возможнос
 Идентификатор NextGIS ID on-premise
 -----------------------------------
 
-Для интеграции с глобальными сервисами NextGIS используется уникальный GUID, указанный в разделе **NextGIS ID on-premise** (см. :numref:`ngidop_guid`). Его необходимо прописать в настройках учетной записи на  `my.nextgis.com <https://my.nextgis.com/myngidonpremises>`_ в разделе NextGIS ID on-premise (см. :numref:`GUID_on_my`).
+Для интеграции с глобальными сервисами NextGIS (таких как `geoservices <https://geoservices.nextgis.com/>`_, `NGQ Rosreestr Tools <https://docs.nextgis.ru/docs_ngqgis/source/NGQ_Rosreestr_Tools.html?highlight=ngq>`_) используется уникальный GUID, указанный в разделе **NextGIS ID on-premise** (см. :numref:`ngidop_guid`). Его необходимо прописать в настройках учетной записи на  `my.nextgis.com <https://my.nextgis.com/myngidonpremises>`_ в разделе NextGIS ID on-premise (см. :numref:`GUID_on_my`).
 
 .. figure:: _static/ngidop_guid.png
    :name: ngidop_guid
