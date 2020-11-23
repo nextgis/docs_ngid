@@ -55,7 +55,12 @@ NGID on-premise предоставляет следующие возможнос
 Приложения OAuth
 -----------------------
 
-В разделе *Приложения OAuth* предоставляется доступ для авторизации в различных приложениях NextGIS - `NextGIS Formbuilder <https://docs.nextgis.ru/docs_formbuilder/source/gui.html#ngidop>`_, `NextGIS QGIS <https://docs.nextgis.ru/docs_ngqgis/source/auth.html#ngidop>`_, NextGIS Web, `NextGIS Collector <https://docs.nextgis.ru/docs_collector/source/auth.html#ngidop>`_, `NextGIS Mobile <https://docs.nextgis.ru/docs_ngmobile/source/auth.html#ngidop>`_ (см. :numref:`ngidop_apps_oauth`).
+В разделе *Приложения OAuth* предоставляется доступ для авторизации в различных приложениях NextGIS (см. :numref:`ngidop_apps_oauth`):
+
+* `NextGIS QGIS <https://docs.nextgis.ru/docs_ngqgis/source/auth.html#ngidop>`_
+* `NextGIS Formbuilder <https://docs.nextgis.ru/docs_formbuilder/source/gui.html#ngidop>`_
+* `NextGIS Mobile <https://docs.nextgis.ru/docs_ngmobile/source/auth.html#ngidop>`_
+* `NextGIS Collector <https://docs.nextgis.ru/docs_collector/source/auth.html#ngidop>`_
 
 Каждое из этих приложений можно быть настроено для авторизации через NextGIS ID on-premise. По умолчанию эти приложения авторизуются через my.nextgis.com - облачный сервис. Подробности о том, как настроить авторизацию в этих приложениях см. в их документации.
 
@@ -65,6 +70,21 @@ NGID on-premise предоставляет следующие возможнос
    :width: 16cm
 
    Настройка OAuth applications
+   
+.. note::
+   Для получения доступа к расширенным функциям настольного и мобильного ПО необходимо указать адрес сервера NextGIS ID в настройках настольного ПО (см. :numref:`auth_server_settings`). По-умолчанию используется публичный сервис авторизации `https://my.nextgis.com <https://my.nextgis.com>`_.
+
+Во внутренней сети сервис может быть развернут по следующему адресу - `https://gis.mycompany.ru/ngid <https://gis.mycompany.ru/ngid>`_. 
+Данный путь следует указывать в качестве адреса сервера авторизации. В браузере открывать следующий адрес:
+* https://gis.mycompany.ru/ngid/ - профиль пользователя.
+   
+.. figure:: _static/auth_server_settings.png
+   :name: auth_server_settings
+   :align: center
+   :width: 16cm
+
+   Настройка сервера авторизации в NextGIS QGIS
+   
 
 .. _ngidop_ldap:
 
@@ -109,36 +129,3 @@ NGID on-premise предоставляет следующие возможнос
 
    Идентификатор GUID в облачном аккаунте NextGIS ID
    
-
-Использование для авторизации в приложениях
--------------------------------------------
-
-Авторизовываться с помощью NextGIS ID on-premise умеет настольное и мобильное программное обеспечение:
-
-* NextGIS QGIS
-* NextGIS Formbuilder
-* NextGIS Mobile
-* NextGIS Collector
-
-
-.. note::
-   Для получения доступа к расширенным функциям настольного и мобильного ПО необходимо указать адрес сервера NextGIS ID в настройках настольного ПО (см. :numref:`auth_server_settings`). По-умолчанию используется публичный сервис авторизации `https://my.nextgis.com <https://my.nextgis.com>`_.
-
-**Примечание:** во внутренней сети сервис может быть развернут по следующему адресу - `https://gis.mycompany.ru/ngid <https://gis.mycompany.ru/ngid>`_. 
-Данный путь следует указывать в качестве адреса сервера авторизации. В браузере открывать следующий адрес:
-* https://gis.mycompany.ru/ngid/ - профиль пользователя.
-
-.. figure:: _static/profile_window.png
-   :name: profile_window
-   :align: center
-   :width: 16cm
-
-   Окно профиля пользователя
-   
-.. figure:: _static/auth_server_settings.png
-   :name: auth_server_settings
-   :align: center
-   :width: 16cm
-
-   Настройка сервера авторизации в NextGIS QGIS
- 
