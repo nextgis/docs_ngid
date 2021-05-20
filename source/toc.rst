@@ -3,9 +3,6 @@
 .. NextGIS ID TOC
 
 Документация по NextGIS ID
-==========================
-
-Содержание:
 
 .. toctree::
    :maxdepth: 2
