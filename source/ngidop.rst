@@ -83,11 +83,11 @@ NGID on-premise предоставляет следующие возможнос
   :header: "app", "client_id", "secret", "redirects", "options"
   :widths: 30, 30, 50, 30, 50
 
-  "NextGIS QGIS", tv88lHLi6I9vUIck7eHxhkoJRfSLR74eLRx4YrpN, "fjoRB04xVrhyGZ2W3wAmoNl9xntnzGYQdPOx9woYd7ByWi40jGvWS3kGMcZMe4XmExggmDA6AI4PLQQ9nOH5nlMJoBORZFZsJnHf1n4UlsyBni7x7ESC8kkIaBUktmRm", "http://localhost:65020 http://127.0.0.1:65020", "Client type: Public, \ Grant type: Authorization code"
-  "NextGIS Formbuilder", 40ONLYJYYQFLBD6btOpQnJNO9DHfuejUt4FPSUJ3, "NBLCqBaQEhXtr4NAM8IgD6Jntte66FIRzk4nE6W71DlzYPdcfUyu7Oc51hDGVMxyDo4UrpHDxqX94qKt9UQa0VfcRrJWffD8MRAvTJfyaaiqbQ02N7EzINkz6Kob6EoK", "http://localhost:65020 http://127.0.0.1:65020", "Client type: Public, \ Grant type: Authorization code"
-  "NextGIS Collector (mobile)", K4lDqemXBGQmYO4bFWRswpvDd1FKDjuenzsI7qOe, "ZHYKN1UMcfar0wbrQtbQ5KUgjjxucRKvcXYH65cqGI9YBAqo1ef34LoEpgg76jGO3Eg0CRRmehUAHZf7asexCBqREe5gR8z0SdCJSzpZ2bOPhIgwPTkeU7qbtixJK8UY", "", "Client type: Public, \ Grant type: Resource owner password-based"
-  "NextGIS Mobile", "Im6GFdPPuPM09BnvFb3EacFZyq8TpRBSAAex7JDZ", "ymFxZ9Qx3A8HACtBjUk35Ah0riraJlgVzOUPm91RUvWZmAhM97hD3GjgW787PXR1iTGxWawVP9dFSJgGwaCkKNBIygUcYh4d2OVt3nHPtnHTujYfUbaanL5LIXycMB6M", " ", "Client type: Public, \ Grant type: Resource owner password-based"
-  "NextGIS Web (on-premise)", "8P5WqTaVrvflO34dIuOg5bNz6TZDIvM08mBTrbJm", "iIpkKTsplLYKp3ww1F2VqgWq3sIlzJl66k1qWeL9eNymc8ixYYroPu9S2Ilj0GIiZpgX0IqacxS56fp97GodUptTZbQvrqxqpoYEXjjSRTwrvObnLPZ1A87zrs4qSxns", "устанавливается корректный у клиента", "Client type: Public, \  Grant type: Authorization code"
+  "NextGIS QGIS", tv88lHLi6I9vUIck7eHxhkoJRfSLR74eLRx4YrpN, "fjoRB04xVrhyGZ2W3wAmoNl9xntnzGYQdPOx9woYd7ByWi40jGvWS3kGMcZMe4XmExggmDA6AI4PLQQ9nOH5nlMJoBORZFZsJnHf1n4UlsyBni7x7ESC8kkIaBUktmRm", "http://localhost:65020 http://127.0.0.1:65020", "Client type: Public \ Grant type: Authorization code"
+  "NextGIS Formbuilder", 40ONLYJYYQFLBD6btOpQnJNO9DHfuejUt4FPSUJ3, "NBLCqBaQEhXtr4NAM8IgD6Jntte66FIRzk4nE6W71DlzYPdcfUyu7Oc51hDGVMxyDo4UrpHDxqX94qKt9UQa0VfcRrJWffD8MRAvTJfyaaiqbQ02N7EzINkz6Kob6EoK", "http://localhost:65020 http://127.0.0.1:65020", "Client type: Public \ Grant type: Authorization code"
+  "NextGIS Collector (mobile)", K4lDqemXBGQmYO4bFWRswpvDd1FKDjuenzsI7qOe, "ZHYKN1UMcfar0wbrQtbQ5KUgjjxucRKvcXYH65cqGI9YBAqo1ef34LoEpgg76jGO3Eg0CRRmehUAHZf7asexCBqREe5gR8z0SdCJSzpZ2bOPhIgwPTkeU7qbtixJK8UY", "", "Client type: Public \ Grant type: Resource owner password-based"
+  "NextGIS Mobile", "Im6GFdPPuPM09BnvFb3EacFZyq8TpRBSAAex7JDZ", "ymFxZ9Qx3A8HACtBjUk35Ah0riraJlgVzOUPm91RUvWZmAhM97hD3GjgW787PXR1iTGxWawVP9dFSJgGwaCkKNBIygUcYh4d2OVt3nHPtnHTujYfUbaanL5LIXycMB6M", " ", "Client type: Public \ Grant type: Resource owner password-based"
+  "NextGIS Web (on-premise)", "8P5WqTaVrvflO34dIuOg5bNz6TZDIvM08mBTrbJm", "iIpkKTsplLYKp3ww1F2VqgWq3sIlzJl66k1qWeL9eNymc8ixYYroPu9S2Ilj0GIiZpgX0IqacxS56fp97GodUptTZbQvrqxqpoYEXjjSRTwrvObnLPZ1A87zrs4qSxns", "устанавливается корректный у клиента", "Client type: Public \  Grant type: Authorization code"
 
 **Параметры конфигурации приложений OAuth**  
  
