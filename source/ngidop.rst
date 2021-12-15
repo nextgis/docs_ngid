@@ -83,7 +83,7 @@ NGID on-premise предоставляет следующие возможнос
   :header: "app", "client_id", "secret", "redirects", "options"
   :widths: 30, 30, 50, 30, 50
 
-  "NextGIS QGIS", tv88lHLi6I9vUIck7eHx \ hkoJRfSLR74eLRx4YrpN, "fjoRB04xVrhyGZ2W3wAmoN \ l9xntnzGYQdPOx9woYd7 \ ByWi40jGvWS3kGMcZMe4Xm \ ExggmDA6AI4PLQQ9nOH5nlMJoBOR \ ZFZsJnHf1n4UlsyBn \ i7x7ESC8kkIaBUktmRm", "http://localhost:65020 \ http://127.0.0.1:65020", "Client type: Public, \ Grant type: Authorization code"
+  "NextGIS QGIS", tv88lHLi6I9vUIck7eHx \\ hkoJRfSLR74eLRx4YrpN, "fjoRB04xVrhyGZ2W3wAmoN \\ l9xntnzGYQdPOx9woYd7 \\ ByWi40jGvWS3kGMcZMe4Xm \\ ExggmDA6AI4PLQQ9nOH5nlMJoBOR \\ ZFZsJnHf1n4UlsyBn \\ i7x7ESC8kkIaBUktmRm", "http://localhost:65020 \\ http://127.0.0.1:65020", "Client type: Public, \\ Grant type: Authorization code"
   "NextGIS Formbuilder", 40ONLYJYYQFLBD6btOp \ QnJNO9DHfuejUt4FPSUJ3, "NBLCqBaQEhXtr4NAM8IgD6Jnt \ te66FIRzk4nE6W71DlzYPdcf \ Uyu7Oc51hDGVMxyDo4UrpHDxq \ X94qKt9UQa0VfcRrJWffD8MRA \ vTJfyaaiqbQ02N7EzINkz6Kob6EoK", "http://localhost:65020 \ http://127.0.0.1:65020", "Client type: Public, \ Grant type: Authorization code"
   "NextGIS Collector (mobile)", K4lDqemXBGQmYO4bFWRsw \ pvDd1FKDjuenzsI7qOe, "ZHYKN1UMcfar0wbrQtbQ5 \ KUgjjxucRKvcXYH65cqGI9YB \ Aqo1ef34LoEpgg76jGO3Eg0CRR \ mehUAHZf7asexCBqREe5gR8z0 \ SdCJSzpZ2bOPhIgwPTkeU7qbtixJK8UY", "", "Client type: Public, \ Grant type: Resource owner password-based"
   "NextGIS Mobile", "Im6GFdPPuPM09BnvFb3EacFZyq8TpRBSAAex7JDZ", "ymFxZ9Qx3A8HACtBjUk35Ah0r \ iraJlgVzOUPm91RUvWZmAhM97hD \ 3GjgW787PXR1iTGxWawVP9dFSJ \ gGwaCkKNBIygUcYh4d2OVt3nH \ PtnHTujYfUbaanL5LIXycMB6M", " ", "Client type: Public, \ Grant type: Resource owner password-based"
