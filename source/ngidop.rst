@@ -75,11 +75,10 @@ NGID on-premise предоставляет следующие возможнос
    :name: ngidop_apps_oauth
    :align: center
    :width: 16cm
-
+   
    Настройка OAuth applications
  
- **Параметры конфигурации приложений OAuth** 
- 
+
 .. csv-table:: Параметры конфигурации приложений OAuth
   :header: "app", "client_id", "secret", "redirects", "options"
   :widths: 30, 30, 50, 30, 50
@@ -90,7 +89,7 @@ NGID on-premise предоставляет следующие возможнос
   "NextGIS Mobile", "Im6GFdPPuPM09BnvFb3EacFZyq8TpRBSAAex7JDZ", "ymFxZ9Qx3A8HACtBjUk35Ah0riraJlgVzOUPm91RUvWZmAhM97hD3GjgW787PXR1iTGxWawVP9dFSJgGwaCkKNBIygUcYh4d2OVt3nHPtnHTujYfUbaanL5LIXycMB6M", " ", "Client type: Public, \ Grant type: Resource owner password-based"
   "NextGIS Web (on-premise)", "8P5WqTaVrvflO34dIuOg5bNz6TZDIvM08mBTrbJm", "iIpkKTsplLYKp3ww1F2VqgWq3sIlzJl66k1qWeL9eNymc8ixYYroPu9S2Ilj0GIiZpgX0IqacxS56fp97GodUptTZbQvrqxqpoYEXjjSRTwrvObnLPZ1A87zrs4qSxns", "устанавливается корректный у клиента", "Client type: Public, \  Grant type: Authorization code"
 
- 
+**Параметры конфигурации приложений OAuth**  
  
 .. note::
    Для получения доступа к расширенным функциям настольного и мобильного ПО необходимо указать адрес сервера NextGIS ID в настройках настольного ПО (см. :numref:`auth_server_settings`). По-умолчанию используется публичный сервис авторизации `https://my.nextgis.com <https://my.nextgis.com>`_.
