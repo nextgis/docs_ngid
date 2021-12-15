@@ -78,16 +78,17 @@ NGID on-premise предоставляет следующие возможнос
 
    Настройка OAuth applications
  
+ **Параметры конфигурации приложений OAuth** 
  
 .. csv-table:: Параметры конфигурации приложений OAuth
   :header: "app", "client_id", "secret", "redirects", "options"
   :widths: 30, 30, 50, 30, 50
 
-  "NextGIS QGIS", tv88lHLi6I9vUIck7eHx \\ hkoJRfSLR74eLRx4YrpN, "fjoRB04xVrhyGZ2W3wAmoN \\ l9xntnzGYQdPOx9woYd7 \\ ByWi40jGvWS3kGMcZMe4Xm \\ ExggmDA6AI4PLQQ9nOH5nlMJoBOR \\ ZFZsJnHf1n4UlsyBn \\ i7x7ESC8kkIaBUktmRm", "http://localhost:65020 \\ http://127.0.0.1:65020", "Client type: Public, \\ Grant type: Authorization code"
-  "NextGIS Formbuilder", 40ONLYJYYQFLBD6btOp \ QnJNO9DHfuejUt4FPSUJ3, "NBLCqBaQEhXtr4NAM8IgD6Jnt \ te66FIRzk4nE6W71DlzYPdcf \ Uyu7Oc51hDGVMxyDo4UrpHDxq \ X94qKt9UQa0VfcRrJWffD8MRA \ vTJfyaaiqbQ02N7EzINkz6Kob6EoK", "http://localhost:65020 \ http://127.0.0.1:65020", "Client type: Public, \ Grant type: Authorization code"
-  "NextGIS Collector (mobile)", K4lDqemXBGQmYO4bFWRsw \ pvDd1FKDjuenzsI7qOe, "ZHYKN1UMcfar0wbrQtbQ5 \ KUgjjxucRKvcXYH65cqGI9YB \ Aqo1ef34LoEpgg76jGO3Eg0CRR \ mehUAHZf7asexCBqREe5gR8z0 \ SdCJSzpZ2bOPhIgwPTkeU7qbtixJK8UY", "", "Client type: Public, \ Grant type: Resource owner password-based"
-  "NextGIS Mobile", "Im6GFdPPuPM09BnvFb3EacFZyq8TpRBSAAex7JDZ", "ymFxZ9Qx3A8HACtBjUk35Ah0r \ iraJlgVzOUPm91RUvWZmAhM97hD \ 3GjgW787PXR1iTGxWawVP9dFSJ \ gGwaCkKNBIygUcYh4d2OVt3nH \ PtnHTujYfUbaanL5LIXycMB6M", " ", "Client type: Public, \ Grant type: Resource owner password-based"
-  "NextGIS Web (on-premise)", "8P5WqTaVrvflO34dIuO \ g5bNz6TZDIvM08mBTrbJm", "iIpkKTsplLYKp3ww1F2VqgWq3s \ IlzJl66k1qWeL9eNymc8ixY \ YroPu9S2Ilj0GIiZpgX0IqacxS \ 56fp97GodUptTZbQvrqxqpoYE \ XjjSRTwrvObnLPZ1A87zrs4qSxns", "устанавливается \ корректный \ у клиента", "Client type: Public, \  Grant type: Authorization code"
+  "NextGIS QGIS", tv88lHLi6I9vUIck7eHxhkoJRfSLR74eLRx4YrpN, "fjoRB04xVrhyGZ2W3wAmoNl9xntnzGYQdPOx9woYd7ByWi40jGvWS3kGMcZMe4XmExggmDA6AI4PLQQ9nOH5nlMJoBORZFZsJnHf1n4UlsyBni7x7ESC8kkIaBUktmRm", "http://localhost:65020, http://127.0.0.1:65020", "Client type: Public, \ Grant type: Authorization code"
+  "NextGIS Formbuilder", 40ONLYJYYQFLBD6btOpQnJNO9DHfuejUt4FPSUJ3, "NBLCqBaQEhXtr4NAM8IgD6Jntte66FIRzk4nE6W71DlzYPdcfUyu7Oc51hDGVMxyDo4UrpHDxqX94qKt9UQa0VfcRrJWffD8MRAvTJfyaaiqbQ02N7EzINkz6Kob6EoK", "http://localhost:65020, http://127.0.0.1:65020", "Client type: Public, \ Grant type: Authorization code"
+  "NextGIS Collector (mobile)", K4lDqemXBGQmYO4bFWRswpvDd1FKDjuenzsI7qOe, "ZHYKN1UMcfar0wbrQtbQ5KUgjjxucRKvcXYH65cqGI9YBAqo1ef34LoEpgg76jGO3Eg0CRRmehUAHZf7asexCBqREe5gR8z0SdCJSzpZ2bOPhIgwPTkeU7qbtixJK8UY", "", "Client type: Public, \ Grant type: Resource owner password-based"
+  "NextGIS Mobile", "Im6GFdPPuPM09BnvFb3EacFZyq8TpRBSAAex7JDZ", "ymFxZ9Qx3A8HACtBjUk35Ah0riraJlgVzOUPm91RUvWZmAhM97hD3GjgW787PXR1iTGxWawVP9dFSJgGwaCkKNBIygUcYh4d2OVt3nHPtnHTujYfUbaanL5LIXycMB6M", " ", "Client type: Public, \ Grant type: Resource owner password-based"
+  "NextGIS Web (on-premise)", "8P5WqTaVrvflO34dIuOg5bNz6TZDIvM08mBTrbJm", "iIpkKTsplLYKp3ww1F2VqgWq3sIlzJl66k1qWeL9eNymc8ixYYroPu9S2Ilj0GIiZpgX0IqacxS56fp97GodUptTZbQvrqxqpoYEXjjSRTwrvObnLPZ1A87zrs4qSxns", "устанавливается корректный у клиента", "Client type: Public, \  Grant type: Authorization code"
 
  
  
@@ -115,7 +116,7 @@ NGID on-premise предоставляет следующие возможнос
 В блоке LDAP SERVER указывается адрес сервера авторизации, логин/пароль учетной записи пользователя для подключения к серверу.
 
 
-**Интеграция с внешним сервером Microsoft Active Directory.** 
+**Интеграция с внешним сервером Microsoft Active Directory** 
 
 При авторизации через стандартный диалог входа NextGIS Web идет проверка существования данного пользователя в ПО NextGIS Web. Если аккаунт пользователя имеет тип Microsoft Active Directory, то проверка пароля осуществляется в Microsoft Active Directory. Если пользователя не существует, то проверяется существование пользователя в сервере Microsoft Active Directory. Если пользователь существует, то проверяется введенный пароль. Если сервер Microsoft Active Directory успешно авторизовал пользователя, то в ПО NextGIS Web создается пользователь с такими же логином и именем и типом аккаунта Microsoft Active Directory.
 
