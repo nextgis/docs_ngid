@@ -122,7 +122,7 @@ If a user is part of a **group**, you can add that information in the last secti
 
 NextGIS ID on-premise identificator
 -----------------------------------
-For integration with global NextGIS services (such as `geoservices <https://geoservices.nextgis.com/>`_) a unique GUID is used. You can view it in the **NextGIS ID on-premise** section (see :numref:`ngidop_guid`). To set it up open your profile on `my.nextgis.com <https://my.nextgis.com/myngidonpremises>`_ and enter the GUID in the NextGIS ID on-premise section (see :numref:`GUID_on_my`).
+For integration with global NextGIS services (such as `GeoServices <https://geoservices.nextgis.com/>`_) a unique GUID is used. You can view it in the **NextGIS ID on-premise** section (see :numref:`ngidop_guid`). To set it up open your profile on `my.nextgis.com <https://my.nextgis.com/myngidonpremises>`_ and enter the GUID in the NextGIS ID on-premise section (see :numref:`GUID_on_my`).
 
 .. figure:: _static/ngidop_guid_en.png
    :name: ngidop_guid
