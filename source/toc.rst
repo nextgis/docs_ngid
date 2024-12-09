@@ -2,10 +2,8 @@
 
 .. NextGIS ID TOC
 
-NextGIS ID documentation
+NextGIS ID
 ===============================
-
-Contents:
     
 .. toctree::
    :maxdepth: 2
