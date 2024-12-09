@@ -2,7 +2,7 @@
 
 .. NextGIS ID TOC
 
-Документация по NextGIS ID
+NextGIS ID
 ==========================
 
 .. toctree::
