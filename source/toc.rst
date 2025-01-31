@@ -2,7 +2,7 @@
 
 .. NextGIS ID TOC
 
-NextGIS ID
+NextGIS ID на своём сервере
 ==========================
 
 .. toctree::
