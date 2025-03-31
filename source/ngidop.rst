@@ -19,7 +19,7 @@ The functionality of NGID on-premise includes:
 .. _ngidop_auth:
 
 Authorization and profile
---------------
+--------------------------
 
 The home page of NGID on-premise opens on a sign-in dialog (see :numref:`auth_window`). Enter login and password for a user created in the Admin Console.
 
@@ -97,7 +97,7 @@ Enter this URL as the authorization server address. In a web browser use the lin
 .. _ngidop_ldap:
 
 Setting up LDAP
---------------
+----------------
 
 To open LDAP settings, add **/ldapsettings** to the URL (see :numref:`ldap_settings`).
 In the LDAP SERVER section enter the URL of the authorization server, user login and password to sign in on the server.
@@ -122,6 +122,7 @@ If a user is part of a **group**, you can add that information in the last secti
 
 NextGIS ID on-premise identificator
 -----------------------------------
+
 For integration with global NextGIS services (such as `GeoServices <https://geoservices.nextgis.com/>`_) a unique GUID is used. You can view it in the **NextGIS ID on-premise** section (see :numref:`ngidop_guid`). To set it up open your profile on `my.nextgis.com <https://my.nextgis.com/myngidonpremises>`_ and enter the GUID in the NextGIS ID on-premise section (see :numref:`GUID_on_my`).
 
 .. figure:: _static/ngidop_guid_en.png
