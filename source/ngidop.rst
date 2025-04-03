@@ -12,7 +12,7 @@ The functionality of NGID on-premise includes:
 * user sign-in with login and password;
 * modifying user credentials (login, password), deleting users;
 * adding users to a team that has extended access to software features, managing team members;
-* user sign-in via OAuth2 in various applications;
+* user sign-in via :term:`OAuth` 2.0 in various applications;
 * personal web pages for users where they can view their profile and change their password.
 
 
