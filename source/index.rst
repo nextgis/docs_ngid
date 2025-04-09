@@ -1,17 +1,12 @@
-.. NextGIS ID
-.. sectionauthor:: Dmitry Baryshnikov <dmitry.baryshnikov@nextgis.com>
-
-.. include:: toc.rst
-
+NextGIS ID
+===============================
+    
 .. toctree::
    :maxdepth: 2
 
-   
-   
-Index and glossary
-==================
+   intro
+   ngidop
 
 * :ref:`genindex`
-* :ref:`search`
 * :ref:`glossary`
 
