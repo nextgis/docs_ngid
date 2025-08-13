@@ -64,9 +64,9 @@ OAuth applications
 You can permit this type of authorization for various NextGIS apps. Set it up in the *OAuth Application* section of the settings (see :numref:`ngidop_apps_oauth`):
 
 * `NextGIS QGIS <https://docs.nextgis.com/docs_ngqgis/source/auth.html#ngidop>`_
-* `NextGIS Formbuilder <https://docs.nextgis.com/docs_formbuilder/source/gui.html#ngidop>`_
 * `NextGIS Mobile <https://docs.nextgis.com/docs_ngmobile/source/auth.html#ngidop>`_
 * `NextGIS Collector <https://docs.nextgis.com/docs_collector/source/auth.html#ngidop>`_
+* `NextGIS Formbuilder <https://docs.nextgis.com/docs_formbuilder/source/gui.html#ngidop>`_
 
 Each of this apps must be configured to allow authorization via NextGIS ID on-premise. By default the apps use the cloud authorization service my.nextgis.com. For more details on setting up authorization in these apps see the corresponding documentation.
 
