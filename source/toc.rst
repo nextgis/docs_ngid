@@ -1,13 +1,6 @@
-.. sectionauthor:: Dmitry Baryshnikov <dmitry.baryshnikov@nextgis.com>
+.. important::
 
-.. NextGIS ID TOC
+   Table of contents is moved here:
 
-NextGIS ID
-===============================
-    
-.. toctree::
-   :maxdepth: 2
-
-   intro
-   ngidop
+   `NextGIS ID <https://docs.nextgis.com/docs_ngid/source/index.html>`_
 
