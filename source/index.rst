@@ -1,4 +1,4 @@
-.. sectionauthor:: Dmitry Baryshnikov <dmitry.baryshnikov@nextgis.ru>
+
 
 .. NextGIS ID TOC
 
