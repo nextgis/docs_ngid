@@ -67,7 +67,7 @@ NGID on-premise предоставляет следующие возможнос
 * `NextGIS QGIS <https://docs.nextgis.ru/docs_ngqgis/source/auth.html#ngidop>`_
 * `NextGIS Mobile <https://docs.nextgis.ru/docs_ngmobile/source/auth.html#ngidop>`_
 * `NextGIS Collector <https://docs.nextgis.ru/docs_collector/source/auth.html#ngidop>`_
-* `NextGIS Formbuilder <https://docs.nextgis.ru/docs_formbuilder/source/gui.html#ngidop>`_
+
 
 Каждое из этих приложений можно быть настроено для авторизации через NextGIS ID on-premise. По умолчанию эти приложения авторизуются через my.nextgis.com - облачный сервис. Подробности о том, как настроить авторизацию в этих приложениях см. в их документации.
 
