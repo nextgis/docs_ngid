@@ -6,7 +6,3 @@ NextGIS ID
 
    intro
    ngidop
-
-* :ref:`genindex`
-* :ref:`glossary`
-
