@@ -55,6 +55,12 @@ To add a new team member, enter login and password for the user. You can also de
 
    Adding users to the Team
 
+By default a new Web GIS user has no permissions and cannot view any resources. `Set up permissions <https://docs.nextgis.com/docs_ngcom/source/permissions.html>`_ for your team members before their first login.  
+
+It can be done in one of two ways:
+
+* The best way is to set up permissions for a `user group <https://docs.nextgis.com/docs_ngweb/source/users.html#create-new-user-group>`_ with the option **"New users"** enabled. Users will be included in this group upon their first login to the Web GIS.
+* An alternative way is to set up permissions for the principal `"Authenticated" <https://docs.nextgis.com/docs_ngcom/source/permissions.html#ngcom-permissions-usertypes>`_.
 
 .. _ngidop_app_oauth:
 
